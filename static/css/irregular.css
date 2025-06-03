@@ -255,7 +255,19 @@
             }
 
             .fade-up {
-                animation: fadeIn 5s ease forwards;
+                animation: fadeIn 1s ease forwards;
+            }
+
+            .fade-up-2 {
+                animation: fadeIn 1.3s ease forwards;
+            }
+
+            .fade-up-3 {
+                animation: fadeIn 1.6s ease forwards;
+            }
+
+            .fade-up-4 {
+                animation: fadeIn 1.9s ease forwards;
             }
 
             .fade-show {

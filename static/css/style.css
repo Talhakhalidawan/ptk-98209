@@ -300,12 +300,7 @@ input:-webkit-autofill{
     content: "";
     position: absolute;
     inset: 0;                    /* top/left/right/bottom = 0 */
-    background: linear-gradient(
-      to bottom right,
-      #050d19,
-      #09172e,
-      #050d19
-    );
+    background: linear-gradient( to bottom right, #050d19, #09172e, #050d19);
     filter: blur(100px);          /* blur radius */
     z-index: -1;                 /* behind content */
 }
